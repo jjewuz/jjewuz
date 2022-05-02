@@ -1,5 +1,6 @@
 ### Welcome to my profile!
 
+I'm developing some shitty apps and games and share it there. 
 
 ### My Groups🔗
 
