@@ -6,21 +6,6 @@
 
 > You can download my apps from Google Play.
 
-```Lua
-nickname = "jjewuz"
-
-function shortIntroduce(name, nickname, age, email) 
-  print("My name is " .. name .. ". My nickname " .. nickname .. ". I'm " .. age .. " y.o. My email is " .. email .. ".")
-end
-
-shortIntroduce("Maksim Denisov", nickname, "17", "mdenisov.work@gmail.com")
-
-local tg_nick = nickname
-}
-
-
-```
-
 ### Find more about 5 hex
 
 > I don't want to present apps by my name or nickname, so i decided to name it 5 hex. Maybe someone will be developing some stuff with me on 5 hex.
