@@ -2,7 +2,7 @@
 
 > I'm developing some shitty apps and games and share it there. 
 
-> I'm coding on Lua, Kotlin and Python.
+> I'm coding on Lua, Kotlin, C# and Python.
 
 > You can download my apps from Google Play.
 
