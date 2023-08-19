@@ -1,10 +1,6 @@
 ### **Welcome to my profile!**
 
-> I'm developing some shitty apps and games and share it there. 
-
-> I'm coding on Kotlin, C#, Python and Lua.
-
-> You can download my apps from Google Play.
+Beginner game and app developer. I create exciting games and useful applications. Eternal student of programming, always on the lookout for new ways to improve.
 
 [![wakatime](https://wakatime.com/badge/user/e897f6a1-0579-4a26-b450-db5a73393797.svg)](https://wakatime.com/@e897f6a1-0579-4a26-b450-db5a73393797)
 
