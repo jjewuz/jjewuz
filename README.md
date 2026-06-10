@@ -54,7 +54,7 @@ Always learning, always building.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jjewuz&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jjewuzE&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jjewuz&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
